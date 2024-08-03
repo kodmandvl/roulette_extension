@@ -1,0 +1,9 @@
+## begin of file ##
+# Roulette extension
+comment = 'Расширение для игры в рулетку и в магический шар с функцией random внутри'
+default_version = '1.1'
+relocatable = true
+#requires = 'some extension(s)'
+superuser = false
+encoding = UTF8
+## end of file ##

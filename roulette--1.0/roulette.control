@@ -1,0 +1,8 @@
+## begin of file ##
+# Roulette extension!
+comment = 'PostgreSQL extension for roulette game'
+default_version = '1.0'
+relocatable = true
+#requires = 'some extension(s)'
+superuser = false
+## end of file ##
