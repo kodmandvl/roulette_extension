@@ -1,6 +1,6 @@
 # МОЕ ТЕСТОВО-УЧЕБНОЕ РАСШИРЕНИЕ "РУЛЕТКА" ДЛЯ POSTGRESQL
 
-Для проверки этого учебного примера можно использовать мой docker-образ, например, kodmandvl/postgres:13
+Для проверки этого учебного примера можно использовать [мой docker-образ для PostgreSQL](https://hub.docker.com/r/kodmandvl/postgres/tags), например, kodmandvl/postgres:13
 
 ## ФАЙЛ roulette.control:
 
